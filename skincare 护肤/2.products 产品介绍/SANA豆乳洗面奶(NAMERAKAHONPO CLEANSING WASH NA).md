@@ -62,11 +62,13 @@
 ## ✨ Product Introduction
 > SANA Soy Milk Cleansing Wash is a super popular gentle cleanser from Japan, featuring soy milk ferment extract for hydration and a dense, rich foam.
 
+## 🧾 Cleanser Type
+Mainly soap-based, with added betaine surfactant
+
 ## 🧾 Key Ingredients
-```
 Soy milk ferment extract (hydrolyzed soy protein), glycerin, plant-based cleansing agents
 No fragrance, no colorants, no mineral oil
-```
+
 ## 📝 How to Use
 1. Squeeze about 1cm onto your palm, add water and lather up.
 2. Apply the foam evenly to your wet face and gently massage in circles.
@@ -74,10 +76,11 @@ No fragrance, no colorants, no mineral oil
 
 ## 🧑‍💻 User Experience
 > - Soap-based cleanser, so cleansing power is strong—be aware it may be too much for some
-> - Best for combination and oily skin, not suitable for dry skin
+> - Best for combination and oily skin, not suitable for dry skin (though my super dry skin actually feels fine, probably because I moisturize well)
 > - May cause dryness after use, so be sure to moisturize well
 > - The cap design is flawed, so leftover cleanser tends to leak from the opening
 > - If you have patience, use a foaming net—the foam you get is super fine and dense!
+> - Added ingredients are mostly for marketing, don't expect much real effect
 
 </details>
 
