@@ -9,7 +9,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><strong>中文 | Chinese</strong></summary>
 
 <details>
